@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JAVA FOODIES</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="stylesheet" href="responsive.css">
+    <link rel="stylesheet" href="./footer.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <script src="https://kit.fontawesome.com/1cb8d7932f.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div class="header-left">
+                <img class="logo" src="https://cdn-icons-png.flaticon.com/512/5861/5861651.png">
+                <a>JAVA FOODIES</a>
+            </div>
+            <span class="fa fa-bars menu-icon"></span>
+            <div class="header-right">
+                <a>Contact</a>
+                <a>Menu</a>
+                <a>Home</a>
+            </div>
+    </header>
+    <div class="top-wrapper">
+        <div class="container">
+            <h1 class="animate__animated animate__bounce">MAKANAN TRADISIONAL INDONESIA <br>DARI PULAU JAWA</h1>
+            <p>Mari berkenalan dengan rekomendasi kuliner dari DKI Jakarta, Banten, Jawa Barat, Jawa Timur, Jawa Tengah, dan Yogyakarta</p>
+        </div>
+    </div>
+    <div class="food-wrapper">
+        <div class="container">
+            <div class="heading">
+                <h2>Berikut Adalah Beberapa Makanan Tradisional Dari Pulau Jawa</h2>
+            </div>
+        </div>
+        <div class="food">
+            <div class="city">
+                <h2>BANTEN</h2>
+                <div class="box-barang">
+                    <img src="https://www.superadventure.co.id/uploads/news/2019/04/01/a971c112ae9b.jpg" class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Angeun Lada</b></div>
+                        <div class="box-deskripsi">
+                            Sayur khas Banten ini memiliki rasa pedas yang berasal dari serai, serta aroma menyengat dari lengkuas, kemiri, dan kencur yang terasa begitu dominan. Tekstur daging yang empuk juga menambah kenikmatan
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box-barang">
+                    <img src="https://d220hvstrn183r.cloudfront.net/attachment/40350485038576966549.large" class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Rebeg</b></div>
+                        <div class="box-deskripsi">
+                            Rawon merupakan salah satu makanan khas Surabaya. Rawon menggunakan daging sapi yang direbus dalam kuah kluwek dalam waktu lama hingga teksturnya empuk, disajikan bersama taoge, telur asin, serta kerupuk udang.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box-barang">
+                    <img src="https://img-global.cpcdn.com/recipes/b6f2858e03ab54e6/680x482cq70/ketan-bintulketan-serundeng-khas-banten-foto-resep-utama.jpg" class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Ketan Bintul</b></div>
+                        <div class="box-deskripsi">Dengar kata pecel kamu mungkin langsung terbayang Kota Madiun. Biasanya terdiri dari isian sayur, jenis daun sebagai wadah pecelnya, hingga lauk pendamping seperti rempeyek dan kerupuk puli.</div>
+                    </div>
+                </div>
+            </div>
+            <div class="city">
+                <h2>DKI JAKARTA</h2>
+                <div class="box-barang">
+                    <img src="https://i.pinimg.com/236x/b5/ed/13/b5ed13c1cc8ad71d23655a9d51623db6.jpg" class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Kerak Telor</b></div>
+                        <div class="box-deskripsi">
+                            Makanan ini terbuat dari beras ketan putih yang dicampur dengan telur dan serundeng. Kemudian dibakar diatas tungku api. Telur yang digunakan sesuai dengan selera. Di Jakarta seringkali ditemukan di kawasan wisata Kota Tua. Bahkan kerak telor juga telah
+                            banyak ditemui di berbagai daerah di luar Jakarta.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box-barang">
+                    <img src="https://cdn-cas.orami.co.id/parenting/images/121267029_898785447318816_147767993758142809_n.width-800.jpg" class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Soto Betawi</b></div>
+                        <div class="box-deskripsi">
+                            Soto asli ibukota ini terkenal dengan isian soto tersebut yaitu jeroan, yang terkadang disertakan juga mata dan torpedo, ditambah dengan kuahnya yang kental dan perpaduan yang pas dari santan dan susu. Soto Betawi sangat pas dinikmati bersama perasaan
+                            jeruk limau dan emping.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box-barang">
+                    <img src="https://i.pinimg.com/564x/26/2c/f1/262cf1d04c3e9cd09762045bd3e0d6e0.jpg " class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Kue Rangi</b></div>
+                        <div class="box-deskripsi">
+                            Kue rangi terbuat dari campuran tepung kanji dengan kelapa parut yang dipanggang dengan cetakan khusus di atas tungku kecil dan ditutup agar cepat matang. Kue rangi disajikan dengan olesan gula merah. Kue rangi memiliki rasa gurih dan beraroma wangi karena
+                            dimasak dengan cara dipanggang menggunakan bahan bakar kayu.
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="city">
+                <h2>JAWA BARAT</h2>
+                <div class="box-barang">
+                    <img src="https://i.pinimg.com/236x/74/5d/d2/745dd2a7e61ed9e1457e20f8665324ad.jpg" class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Nasi Timbel</b></div>
+                        <div class="box-deskripsi">
+                            Yang menjadikannya unik dari makanan ini kemas daun pisang yang membuat makanan ini semakin beraroma lezat dan menggiurkan. Biasanya nasi timbel ini disajikan dengan lauk pendamping seperti ikan asin, ikan pepes, empal, ayam goreng, japuh, dan yang tidak
+                            boleh ketinggalan yaitu lalapan dan sambalnya
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box-barang">
+                    <img src="https://i.pinimg.com/236x/b7/4e/7e/b74e7ef17fe735f52ee7bba3edb94902.jpg" class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Lotek</b></div>
+                        <div class="box-deskripsi">
+                            Lotek merupakan makanan asli Sunda yang terbuat dari sayur-sayuran segar seperti kol, tauge, kacang panjang, dan kangkung yang direbus. Anda juga bisa berkreasi menggunakan sayuran lainnya. Setelah itu, sayuran disiram menggunakan bumbu kacang yang membuat
+                            cira rasanya semakin unik dan nikmat.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box-barang">
+                    <img src="https://i.pinimg.com/564x/b4/53/e3/b453e3d77f2a81f641d96a6f3aed7eda.jpg" class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Peuyeum</b></div>
+                        <div class="box-deskripsi">
+                            Dari namanya saja kita sudah akan mengetahui bahwa makanan yang satu ini berasal dari Jawa Barat yang berbahan dasar singkong yang telah di fermentasi. Peuyeum di daerah lain dikenal dengan nama Tape. Tekstur makanan ini tembut dan rasa yang manis sedikit
+                            asam.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="city">
+                <h2>JAWA TENGAH</h2>
+                <div class="box-barang">
+                    <img src="https://sweetrip.id/wp-content/uploads/2021/03/lumpia-semarang.png" class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Lumpia</b></div>
+                        <div class="box-deskripsi">
+                            Lumpia adalah makanan khas Semarang dengan varian lumpia goreng dan kukus. Kulit lumpia dibuat dari adonan tepung terigu, putih telur, air, dan bumbu dalur. Isinya bervariasi, tetapi sebagian besar terdiri dari daging, telur orak-arik, dan rebung.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box-barang">
+                    <img src="http://v1.inibaru.id/nuploads/59/wisatabanyumas.jpg" class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Getuk Goreng</b></div>
+                        <div class="box-deskripsi">
+                            Getuk goreng adalah makanan asli khas Sokaraja, Banyumas. Getuk goreng terbuat dari bahan dasar singkong atau masyarakat Banyumas biasa menyebutnya boled. Dengan tambahan gula jawa membuat getuk goreng ini menjadi manis dan gurih.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box-barang">
+                    <img src="https://asset.kompas.com/crops/xb-caJwCOZWVMMlADCtADk3IyjY=/0x27:1000x694/780x390/data/photo/2021/02/26/60387fc826d26.jpg" class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Serabi</b></div>
+                        <div class="box-deskripsi">
+                            Serabi merupakan makanan khas dari Kota Solo. Serabi dibuat dari adonan tepung terigu yang dicampur dengan tepung beras dan santan. Secara tradisional, serabi dimasak menggunakan cetakan yang terbuat dari gerabah dan dimasak menggunakan anglo.
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="city">
+                <h2>JAWA TIMUR</h2>
+                <div class="box-barang">
+                    <img src="https://i.pinimg.com/236x/97/09/10/97091018f142e35267e78fd130cb0514.jpg" class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Rujak Cingur</b></div>
+                        <div class="box-deskripsi">
+                            Rujak khas Kota Surabaya ini terdiri berbagai jenis sayuran dan buah lalu dipadukan dengan tempe, tahu, lontong, hingga cingur alias hidung sapi yang jadi ciri khasnya dan diolah dengan bumbu kacang dan petis 2
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box-barang">
+                    <img src="https://i.pinimg.com/564x/2c/2e/92/2c2e9253c7d4cb4f2393300c326ba9f4.jpg" class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Rawon</b></div>
+                        <div class="box-deskripsi">
+                            Rawon merupakan salah satu makanan khas Surabaya. Rawon menggunakan daging sapi yang direbus dalam kuah kluwek dalam waktu lama hingga teksturnya empuk, disajikan bersama taoge, telur asin, serta kerupuk udang.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box-barang">
+                    <img src="https://i.pinimg.com/564x/c5/5d/18/c55d18832026bf81ce6d7a5a4fb187d3.jpg" class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Pecel Madiun</b></div>
+                        <div class="box-deskripsi">
+                            Dengar kata pecel langsung terbayang Kota Madiun yang tersohor sama pecel pincuknya. Biasanya terdiri dari isian sayur, jenis daun sebagai wadah pecelnya, hingga lauk pendamping seperti rempeyek dan kerupuk puli.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="city">
+                <h2>YOGYAKARTA</h2>
+                <div class="box-barang">
+                    <img src="https://kulinerkota.com/wp-content/uploads/2021/03/gudeg.jpg" class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Gudeg</b></div>
+                        <div class="box-deskripsi">
+                            Gudeg terbuat dari nangka muda mentah. Perlu waktu berjam-jam untuk membuat hidangan ini. Gudeg biasanya dimakan dengan nasi dan disajikan dengan kuah santan kental (areh), ayam kampung, telur, tempe, tahu dan sambal goreng krecek.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box-barang">
+                    <img src="https://bisnisukm.com/uploads/2019/11/peluang-usaha-bakpia-skala-rumah-tangga-laris-manis-720x415.jpg" class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Bakpia</b></div>
+                        <div class="box-deskripsi">
+                            Bakpia adalah makanan yang terbuat dari tepung terigu yang dipanggang dengan isian berupa kacang hijau dicampur gula. Seiring perkembangan zaman, bakpia dimodifikasi dengan berbagai rasa yang menarik, seperti keju, coklat, matcha dan lain sebagainya.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box-barang">
+                    <img src="https://www.pegipegi.com/travel/wp-content/uploads/2016/05/sate-klatak.jpg" class="box-thumbnail" />
+
+                    <div class="box-body">
+                        <div class="box-judul"><b>Sate Klatak</b></div>
+                        <div class="box-deskripsi">
+                            Sate klatak adalah sate kambing yang asal-usulnya dari kata ‘klatak’. Garam yang ditaburkan ke daging kambing muda akan berbunyi ‘klatak-klatak-klatak’ ketika dibakar. Sate klatak tidak memakai bumbu kacang atau kecap, melainkan hanya dibumbui garam
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="art">
+            <div class="content">
+                <section>
+                    <div>
+                        <h3>Company</h3>
+                        <a href="#">About</a>
+                        <a href="#">Contact Us</a>
+                        <a href="#">Team</a>
+                        <a href="#">Blog</a>
+                    </div>
+                </section>
+                <section>
+                    <div>
+                        <h3>Food and Recipes</h3>
+                        <a href="#">Quick and Easy Recipes</a>
+                        <a href="#">Meal Prep Recipes</a>
+                        <a href="#">Recommendation</a>
+                    </div>
+                </section>
+                <section>
+                    <div>
+                        <h3>Weekly Newsletter</h3>
+                        <form action="">
+                            <input type="email" placeholder="Your Email Here" id="" />
+                            <input type="submit" value="Subscribe Now" />
+                        </form>
+                        <div class="social">
+                            <i class="fab fa-facebook"></i>
+                            <i class="fab fa-instagram"></i>
+                            <i class="fab fa-telegram-plane"></i>
+                            <i class="fab fa-twitter"></i>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="notice">
+                Copyright Protected &copy;
+                <strong>Java Foodies</strong>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
